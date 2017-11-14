@@ -80,6 +80,8 @@ Special rules:
 # Assumption : 
 All the assumption are coded and are explained as well in comments where they are coded.
 
+Input to the system is command line,To stop giving input we just need to provide an empty String on new line.
+
 # How to run test : 
 a. All the testcases are coded in : TransformationCompanyTest class
 
